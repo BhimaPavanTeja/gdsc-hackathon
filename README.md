@@ -1,5 +1,5 @@
 ## Project
-> Femme fusion
+> Femme Fusion
 ## Description
 The Femme Fusion app's interface is designed with simplicity and functionality in mind. At the top left corner, users can access various sections such as Home, Contact Us, Help, and Profile. The Contact Us section provides options for reaching out for assistance, while the Profile section showcases women's profiles.
 
